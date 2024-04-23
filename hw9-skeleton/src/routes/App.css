@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  width: 400px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.App_postTitle {
+  color: #3d9bc2;
+  font-size: 1.8rem;
+  margin-top: 0;
+}
+
+.App_author {
+  color: #aaa;
+  font-size: 1.2rem;
+}
+
+.App_image {
+  width: 100%;
+  border: 3px solid #3d9bc2;
+  border-radius: 30px;
+}
+
+.App_input {
+  display: block;
+  height: 50px;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding-left: 10px;
+  font-size: 1rem;
+}
+
+.App_commentsHeader {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  color: #3d9bc2;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.App_primaryButton {
+  border: none;
+  border-radius: 4px;
+  background-color: #3d9bc2;
+  color: white;
+  height: 40px;
+  width: 150px;
+  font-weight: bold;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.App_secondaryButton {
+  border: none;
+  border-radius: 4px;
+  background-color: #b9def0;
+  color: #444;
+  height: 40px;
+  width: 150px;
+  font-weight: bold;
+  margin-top: .5rem;
+  cursor: pointer;
+}

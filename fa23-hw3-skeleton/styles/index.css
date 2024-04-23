@@ -1,0 +1,49 @@
+html,
+body {
+  height: 100vh;
+  background: lightcyan;
+  margin: 0;
+}
+
+#navbar {
+  height: 50px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  background: steelblue;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#navbar > * {
+  font-size: 15px;
+  position: relative;
+  padding-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+#navbar > *:first-child {
+  padding-left: 20px;
+}
+
+#about {
+  display: flex;
+  padding: 20px;
+}
+
+#about > * {
+  padding: 20px;
+}
+
+.button {
+  width: auto;
+  height: 25px;
+  font-size: 15px;
+  text-align: center;
+  background: steelblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

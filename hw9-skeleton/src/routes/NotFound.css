@@ -1,0 +1,14 @@
+.NotFound {
+  text-align: center;
+}
+
+.NotFound_title {
+  color: #3d9bc2;
+  font-size: 1.8em;
+  margin-top: none;
+}
+
+.NotFound_image {
+  width: 250px;
+  max-width: 100%;
+}

@@ -1,0 +1,27 @@
+.Profile {
+  text-align: center;
+}
+
+.Profile_header {
+  color: #3d9bc2;
+  font-size: 1.8rem;
+}
+
+.Profile_image {
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+  margin-bottom: 15px;
+}
+
+.Profile_button {
+  border: none;
+  border-radius: 4px;
+  background-color: #3d9bc2;
+  color: white;
+  height: 40px;
+  width: 150px;
+  font-weight: 800;
+  margin-top: 3em;
+  cursor: pointer;
+}
